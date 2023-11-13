@@ -1,7 +1,4 @@
-![输入图片说明](profile/super-character/%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B/%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B.png)
-
-
-
+![输入图片说明](profile/super-character/%E7%BA%B3%E8%A5%BF%E5%A6%B2/%E7%BA%B3%E8%A5%BF%E5%A6%B26.png)
 
 # 喵喵面板图个人用
 
@@ -9,7 +6,7 @@
 个人使用收藏原神角色面板图
 
 #### 软件架构
-软件架构说明
+不会
 
 
 #### 安装教程
