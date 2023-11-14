@@ -1,6 +1,6 @@
 ![输入图片说明](profile/super-character/%E7%BA%B3%E8%A5%BF%E5%A6%B2/%E7%BA%B3%E8%A5%BF%E5%A6%B26.png)
 
- ![Visitor Count](https://gitee.com/GBTBS/root/access)
+ ![Visitor Count](https://gitee.com/GBTBS/root/access/svg)
 # 喵喵面板图个人用
 
 #### 介绍
