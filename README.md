@@ -4,7 +4,6 @@
 [![访问量](https://profile-counter.glitch.me/GBTBS/count.svg)](https://gitee.com/GBTBS/root/edit/master/)
 
 <a href='https://gitee.com/GBTBS/root/stargazers'><img src='https://gitee.com/GBTBS/root/badge/star.svg?theme=dark' alt='star'></img></a>
-
 <a href='https://gitee.com/GBTBS/root/members'><img src='https://gitee.com/GBTBS/root/badge/fork.svg?theme=white' alt='fork'></img></a>
 
 </div>
