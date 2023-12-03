@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/QQ%E7%BE%A4-%E7%8C%AB%E5%A8%98%E4%B9%90%E5%9B%AD-pink?style=flat-square" alt="QQ Chat Group">
   </a>
 
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=LSV_Rliy_ejc2ZcbBLWjDzPwAIWOrs2n&jump_from=webapi&authKey=j+U2OlUrMXmm7/gQACQ4KWBav+DO1KB3eFkZ07C7DJu+PIGt0b+xK2wyLG5CGate"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="QQBot-云崽" title="QQBot-云崽"></a>
 </div>
 
 ![输入图片说明](profile/super-character/%E7%BA%B3%E8%A5%BF%E5%A6%B2/%E7%BA%B3%E8%A5%BF%E5%A6%B26.png)
