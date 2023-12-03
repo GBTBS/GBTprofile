@@ -1,3 +1,5 @@
+<div align="center">
+
 <h2>喵喵面板图个人用</h2>
 
 [![访问量](https://profile-counter.glitch.me/GBTBS/count.svg)](https://gitee.com/GBTBS/root/)
@@ -8,6 +10,9 @@
 
 
 ![输入图片说明](profile/super-character/%E7%BA%B3%E8%A5%BF%E5%A6%B2/%E7%BA%B3%E8%A5%BF%E5%A6%B26.png)
+
+<div>
+
 
 #### 介绍
 个人使用收藏原神角色面板图
