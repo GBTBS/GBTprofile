@@ -6,7 +6,7 @@
 
 <a href='https://gitee.com/GBTBS/root/stargazers'><img src='https://gitee.com/GBTBS/root/badge/star.svg?theme=dark' alt='star'></img></a>
 <a href='https://gitee.com/GBTBS/root/members'><img src='https://gitee.com/GBTBS/root/badge/fork.svg?theme=white' alt='fork'></img></a>
-
+<a href='https://gitee.com/GBTBS/root'><img src='https://gitee.com/GBTBS/root/widgets/widget_6.svg?color=undefined' alt='Fork me on Gitee'></img></a>
 
 
 ![输入图片说明](profile/super-character/%E7%BA%B3%E8%A5%BF%E5%A6%B2/%E7%BA%B3%E8%A5%BF%E5%A6%B26.png)
