@@ -17,9 +17,12 @@
 
 #### 安装教程
 
-放在Yunzai-Bob/plugins/miao-plugin/resources/profile里
+放在Yunzai-Bob/plugins/miao-plugin/resources/profile里。
+
 normal-character是正常面板图。
+
 super-character是彩蛋面板图（三皇冠，六命，AEC评分触发）。
+
 
 #### 使用说明
 
