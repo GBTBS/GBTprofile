@@ -6,7 +6,7 @@
 
 <a href='https://gitee.com/GBTBS/root/stargazers'><img src='https://gitee.com/GBTBS/root/badge/star.svg?theme=dark' alt='star'></img></a>
 <a href='https://gitee.com/GBTBS/root/members'><img src='https://gitee.com/GBTBS/root/badge/fork.svg?theme=white' alt='fork'></img></a>
-   <a href="https://qm.qq.com/q/RnQteOmD84">
+   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=VHXBEqGbqqItJ-uYfQILejQxIWqOl95z&jump_from=webapi&authKey=zIhM5iO8NcIqUSa097qgVAKpBumrR3yieUi+s1DAcjqdsSlhO/Ls1vqtPBbmMHQC">
     <img src="https://img.shields.io/badge/QQ%E7%BE%A4-%E7%8C%AB%E5%A8%98%E4%B9%90%E5%9B%AD-pink?style=flat-square" alt="QQ Chat Group">
   </a>
 
