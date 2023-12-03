@@ -6,6 +6,7 @@
 
 <a href='https://gitee.com/GBTBS/root/stargazers'><img src='https://gitee.com/GBTBS/root/badge/star.svg?theme=dark' alt='star'></img></a>
 <a href='https://gitee.com/GBTBS/root/members'><img src='https://gitee.com/GBTBS/root/badge/fork.svg?theme=white' alt='fork'></img></a>
+<a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=HZfzWzxhfrBFj2cht54VCaI7NJYD-EpX&authKey=4sQXkmfUCBQMdrgQhjAeUTYWvsRJb%2B10%2BfA0ErZVtDAwhaNxpzuAIxVYkP%2FDQ8eU&noverify=0&group_code=758162441">
 
 </div>
 
