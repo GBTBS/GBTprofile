@@ -12,12 +12,14 @@
 个人使用收藏原神角色面板图
 
 #### 软件架构
-不会
+无
 
 
 #### 安装教程
 
-无
+放在Yunzai-Bob/plugins/miao-plugin/resources/profile里
+normal-character是正常面板图。
+super-character是彩蛋面板图（三皇冠，六命，AEC评分触发）。
 
 #### 使用说明
 
