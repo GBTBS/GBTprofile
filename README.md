@@ -1,4 +1,3 @@
-<div align="center">
 <h2>喵喵面板图个人用</h2>
 
 [![访问量](https://profile-counter.glitch.me/GBTBS/count.svg)](https://gitee.com/GBTBS/root/)
