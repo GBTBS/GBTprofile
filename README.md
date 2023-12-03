@@ -11,7 +11,7 @@
 ![输入图片说明](profile/super-character/%E7%BA%B3%E8%A5%BF%E5%A6%B2/%E7%BA%B3%E8%A5%BF%E5%A6%B26.png)
 
 </div>
-
+。
 
 #### 介绍
 个人使用收藏原神角色面板图
