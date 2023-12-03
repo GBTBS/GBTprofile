@@ -9,6 +9,7 @@
    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=VHXBEqGbqqItJ-uYfQILejQxIWqOl95z&jump_from=webapi&authKey=zIhM5iO8NcIqUSa097qgVAKpBumrR3yieUi+s1DAcjqdsSlhO/Ls1vqtPBbmMHQC">
     <img src="https://img.shields.io/badge/QQ%E7%BE%A4-%E7%8C%AB%E5%A8%98%E4%B9%90%E5%9B%AD-pink?style=flat-square" alt="QQ Chat Group">
   </a>
+<a href='https://qm.qq.com/cgi-bin/qm/qr?k=VHXBEqGbqqItJ-uYfQILejQxIWqOl95z&jump_from=webapi&authKey=zIhM5iO8NcIqUSa097qgVAKpBumrR3yieUi+s1DAcjqdsSlhO/Ls1vqtPBbmMHQC'><img src='https://gitee.com/GBTBS/root/badge/star.svg?theme=dark' alt='star'></img></a>
 
 
 ![输入图片说明](profile/super-character/%E7%BA%B3%E8%A5%BF%E5%A6%B2/%E7%BA%B3%E8%A5%BF%E5%A6%B26.png)
